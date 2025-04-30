@@ -5,4 +5,4 @@
 
 * [Мустафин Илья](https://github.com/Samishirei)
 
-* [Кочмарук Ксения](https://github.com/)
+* [Кочмарук Ксения](https://github.com/Ramfurt)
