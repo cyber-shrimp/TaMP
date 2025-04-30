@@ -1,8 +1,8 @@
 # Участники:
-* [Рогинская Александра](https://github.com/
+* [Рогинская Александра](https://github.com/cyber-shrimp)
 
-* [Поляков Егор](https://github.com/)
+* [Поляков Егор](https://github.com/CptTos)
 
-* [Мустафин Илья](https://github.com/)
+* [Мустафин Илья](https://github.com/Samishirei)
 
 * [Кочмарук Ксения](https://github.com/)
