@@ -1,16 +1,18 @@
 # Участники:
-* [Рогинская Александра](https://github.com/cyber-shrimp)
+
   
 ## SHA-384 (хеширование)
 
-* [Поляков Егор](https://github.com/CptTos)
+* [Рогинская Александра](https://github.com/cyber-shrimp)
   
 ## Внедрение сообщения в картинку (стеганография)
 
-* [Мустафин Илья](https://github.com/Samishirei)
+* [Поляков Егор](https://github.com/CptTos)
   
 ## Метод хорд (численные методы)
 
-* [Кочмарук Ксения](https://github.com/Ramfurt)
+* [Мустафин Илья](https://github.com/Samishirei)
   
 ## DES (шифрование)
+
+* [Кочмарук Ксения](https://github.com/Ramfurt)
