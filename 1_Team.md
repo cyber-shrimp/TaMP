@@ -5,14 +5,14 @@
 
 * [Рогинская Александра](https://github.com/cyber-shrimp)
   
-## Внедрение сообщения в картинку (стеганография)
+## [Внедрение сообщения в картинку (стеганография)](https://github.com/cyber-shrimp/TaMP/tree/main/picture_hashing)
 
 * [Поляков Егор](https://github.com/CptTos)
   
-## Метод хорд (численные методы)
+## [Метод хорд (численные методы)](https://github.com/cyber-shrimp/TaMP/tree/main/chord_method)
 
 * [Мустафин Илья](https://github.com/Samishirei)
   
-## DES (шифрование)
+## [DES (шифрование)](https://github.com/cyber-shrimp/TaMP/tree/main/DES)
 
 * [Кочмарук Ксения](https://github.com/Ramfurt)
