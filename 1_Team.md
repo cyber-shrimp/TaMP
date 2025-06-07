@@ -1,7 +1,7 @@
 # Участники:
 
   
-## SHA-384 (хеширование)
+## [SHA-384 (хеширование)](https://github.com/cyber-shrimp/TaMP/tree/main/sha384_service)
 
 * [Рогинская Александра](https://github.com/cyber-shrimp)
   
