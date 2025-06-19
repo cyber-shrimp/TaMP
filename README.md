@@ -1,5 +1,6 @@
-# Проект по дисциплине *"Технологии и методы программирования"*
+# Хэширование SHA384
 
-## [Участники](https://github.com/cyber-shrimp/TaMP/blob/main/1_Team.md)
-## [Документация](https://github.com/cyber-shrimp/TaMP/blob/main/2_Documents.md)
-## [Ход работы](https://github.com/cyber-shrimp/TaMP/blob/main/3_Work.pdf)
+## Выполнено Рогинской Александрой 
+
+## [Документация]()
+## [Код]()
