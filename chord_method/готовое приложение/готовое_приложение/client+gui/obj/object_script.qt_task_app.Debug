@@ -1,0 +1,13 @@
+obj/main.o
+obj/client.o
+obj/mainwindow.o
+obj/loginwindow.o
+obj/registerwindow.o
+obj/taskwindow.o
+obj/questionwindow.o
+obj/moc_client.o
+obj/moc_mainwindow.o
+obj/moc_loginwindow.o
+obj/moc_registerwindow.o
+obj/moc_taskwindow.o
+obj/moc_questionwindow.o
